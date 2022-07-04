@@ -1,5 +1,5 @@
 # Firebase-APIs
-How to use firebase APIs in unity
+Using firebase APIs in unity
 
 How to setup Firebase at Unity(Including Firebase SDK for unity)-
 
